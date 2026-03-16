@@ -3,10 +3,9 @@
 A minimal, modern JavaScript library template.
 
 - ESM, `"type": "module"`, Node 22+
-- Vite configuration
-- Vitest for testing
-- ESLint with [eslint-nostandard](https://github.com/ildella/eslint-nostandard)
 - Yarn 4 (Corepack)
+- Vitest for testing
+- ESLint 9+ flat config with [eslint-nostandard](https://github.com/ildella/eslint-nostandard)
 - Ships source directly, no build step
 
 ## Usage
